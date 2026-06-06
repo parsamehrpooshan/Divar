@@ -1,10 +1,4 @@
-# rjs-divar-api
-
-# npm install
-# npm install --save-dev nodemon
-# npm start
-
-# Divar Clone | شبیه‌ساز سایت دیوار
+# Divar | اپلیکیشن دیوار
 
 ## 📝 توضیح کوتاه پروژه
 
@@ -75,6 +69,8 @@ npm run dev
 http://localhost:5173
 ```
 --
+
+کد تایید پس از وارد کردن شماره موبایل در ترمینال بک اند قابل مشاهده خواهد بود.
 
 ## 🧪 ویژگی‌های اصلی پروژه
 
